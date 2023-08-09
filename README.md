@@ -1,3 +1,26 @@
 # Intro-to-ML
-2023년 1학기 기계학습입문
-영화 관객 수 예측 
+Introduction to Machine Learning Mid-term Project, 2023 spring.
+
+Data: http://www.kobis.co.kr
+##Data preprocessing
+1
+2
+3
+
+##Random Foreset
+1
+2
+3
+##Gradient Boosting
+1
+2
+3
+##XGBoost
+1
+2
+3
+##LightGBM1
+1
+2
+3
+
