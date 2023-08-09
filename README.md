@@ -12,6 +12,11 @@ clean_movie.loc[clean_movie['전국'] < 5000000 ,'전국'] = 0
 ```
 ```
 gamdok_bisection = pd.merge(clean_movie, main_gamdok, how='inner', left_on='감독', right_on='주요 감독')
+clean_movie['주요 감독'] = clean_movie['순번'].apply(lambda x: 1 if x in gamdok_bisection['순번'].tolist() else 0)
+```
+```
+maker_bisection = pd.merge(clean_movie, major_maker, how = 'inner', left_on = "제작사", right_on = '주요 제작사')
+clean_movie['주요 제작사'] = clean_movie['순번'].apply(lambda x: 1 if x in maker_bisection['순번'].tolist() else 0)
 ```
 
 - 원핫인코딩
