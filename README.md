@@ -2,6 +2,7 @@
 Introduction to Machine Learning Mid-term Project, 2023 spring.
 
 Data: http://www.kobis.co.kr
+![image](https://github.com/NamYoonJi/Intro-to-ML/assets/136441326/1fef7177-104b-44aa-abb3-5dd4b04c30d4)
 ## Data preprocessing
 - 레이블링
 ```
