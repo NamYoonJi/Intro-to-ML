@@ -2,25 +2,27 @@
 Introduction to Machine Learning Mid-term Project, 2023 spring.
 
 Data: http://www.kobis.co.kr
-##Data preprocessing
+## Data preprocessing
 1
 2
 3
 
-##Random Foreset
+## Random Foreset
 1
 2
 3
-##Gradient Boosting
+## Gradient Boosting
 1
 2
 3
-##XGBoost
+## XGBoost
 1
 2
 3
-##LightGBM1
+## LightGBM1
 1
 2
 3
+
+##Compare scores
 
