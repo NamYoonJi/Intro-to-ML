@@ -16,20 +16,13 @@ gamdok_bisection = pd.merge(clean_movie, main_gamdok, how='inner', left_on='감�
 - 원핫인코딩
 - 성수기 개봉 데이터 분리
   
-## Random Forest
+## Data Analyzing & Prediction
+### Random Forest
+### Gradient Boosting
+### XGBoost
+### LightGBM
 
-## Gradient Boosting
-1
-2
-3
-## XGBoost
-1
-2
-3
-## LightGBM
-1
-2
-3
 
-## Compare scores
+### Compare scores
+
 
