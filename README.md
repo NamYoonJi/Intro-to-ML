@@ -19,10 +19,10 @@ Data: http://www.kobis.co.kr
 1
 2
 3
-## LightGBM1
+## LightGBM
 1
 2
 3
 
-##Compare scores
+## Compare scores
 
